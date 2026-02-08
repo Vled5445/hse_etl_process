@@ -20,3 +20,13 @@
 Запускаем наш даг и смотрим на результаты выполнения.
 
 <img width="1440" height="847" alt="image" src="https://github.com/user-attachments/assets/f6e394e9-4fb9-4110-b56d-608e9c99d2ee" />
+
+
+# Подсадный Владислав Андреевич, ДЗ 3 "Загрузка данных в целевую систему"
+
+1. Рещультат выполнения дага с полной загрузкой
+<img width="1440" height="608" alt="Снимок экрана 2026-02-08 в 13 07 34" src="https://github.com/user-attachments/assets/970e3f24-abea-41c9-a934-ba0609c31720" />
+
+
+2. Результат выполнения дага с инкрементальной загрузкой
+<img width="1440" height="712" alt="image" src="https://github.com/user-attachments/assets/8ed9c3e6-3af6-470a-b398-d18915fb98f4" />
